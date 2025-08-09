@@ -1,0 +1,18 @@
+{
+  "data_collected": [
+    {
+      "category": "App Info and Performance",
+      "types": [
+        "Crash logs",
+        "Diagnostics"
+      ],
+      "required": true
+    }
+  ],
+  "data_shared": [],
+  "data_encrypted_in_transit": true,
+  "data_deletion_supported": true,
+  "permissions": [
+    "ACTIVITY_RECOGNITION"
+  ]
+}

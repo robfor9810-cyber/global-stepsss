@@ -1,0 +1,3 @@
+workflows:
+  global_steps_release:
+    name: Auto-upload
